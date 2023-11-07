@@ -21,4 +21,4 @@ $products = [
     ],
 ];
 
-require_once 'favorites.tpl.php';
+require_once 'app/views/favorites.tpl.php';
