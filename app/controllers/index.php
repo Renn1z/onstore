@@ -1,7 +1,5 @@
 <?php
 
-require 'func.php';
-
 $title = 'Home';
 
 $products = [
@@ -32,4 +30,4 @@ $products = [
     ],
 ];
 
-require_once 'app/views/index.tpl.php';
+require_once VIEWS . '/index.tpl.php';  
